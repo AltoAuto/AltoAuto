@@ -28,7 +28,7 @@ Engineering should feel like momentum, not manual labor.
 ## 📫 Connect
 
 - [Website](https://www.altoauto.net)  
-- [LinkedIn](https://www.linkedin.com/company/altoauto)  
+- [LinkedIn](https://www.linkedin.com/in/aiden-wang-964082354/)  
 - Contact: contact@altoauto.net
 
 ---
