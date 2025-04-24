@@ -1,38 +1,37 @@
-# 👋 Hi, I’m @AltoAuto
+# 👋 Hi, I'm Aiden Wang
 
-🚀 Building automation tools for engineers who are tired of wasting time on CAD/FEA busywork.  
-🎯 Founded AltoAuto — a student-led project that turns engineering pain into clean, powerful tools.
-
----
-
-## 👀 I’m interested in:
-- CAD automation (SolidWorks API, macros, win32com, etc.)
-- FEA scripting (MAPDL, PyMAPDL, simulation pipelines)
-- Real-world engineering workflows — and how to fix them
-- Building tools students and small teams can actually use
+Founder of **AltoAuto** — a student-led engineering automation suite built for the real workflows engineers deal with.  
+We eliminate the boring stuff in CAD and FEA so you can focus on actually building.
 
 ---
 
-## 🌱 Currently working on:
-- AltoAuto BOM Generator v1.0 (Smart Excel output, recursive assembly scanning)
-- Phase 1 of FEA Assistant (automated setup + DXF face extraction)
-- A licensing + update system for tool delivery via Wix + Python backend
+## ⚙️ What I'm Working On
+
+- **Smart BOM Generator** – Recursively extracts and cleans BOMs from SolidWorks assemblies
+- **FEA Setup Assistant** – One-click setup for MAPDL simulation (mesh, materials, constraints)
+
+All tools are free for student teams.  
+Used by Solar Car and Rocket clubs across the U.S.
 
 ---
 
-## 🤝 Let’s collaborate if:
-- You're into engineering automation, and hate manual workflows as much as we do
-- You’ve built custom macros or scripts for your team, but want to take it further
-- You want to test AltoAuto tools or build new ones with us
+## 🧠 Philosophy
+
+> Build tools that work even when the system doesn't.
+
+Not chasing perfection.  
+Chasing results, speed, and clarity.  
+Engineering should feel like momentum, not manual labor.
 
 ---
 
-## 📫 Reach me at:
-📩 contact@altoauto.net  
-🌐 [www.altoauto.net](https://www.altoauto.net)
+## 📫 Connect
+
+- [Website](https://www.altoauto.net)  
+- [LinkedIn](https://www.linkedin.com/company/altoauto)  
+- Contact: contact@altoauto.net
 
 ---
 
-## ⚡ Fun fact:
-AltoAuto started as a one-week hack to help a student team — now it’s grown into a full suite used by clubs, freelancers, and researchers.
-
+*Currently based in the U.S.  
+Looking to collaborate with student builders, small engineering teams, and people who hate slow workflows as much as I do.*
