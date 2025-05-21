@@ -1,21 +1,18 @@
-# 👋 Hi, I'm Aiden Wang
+# Hi, I'm Aiden Wang
 
 Founder of **AltoAuto** — a student-led engineering automation suite built for the real workflows engineers deal with.  
 We eliminate the boring stuff in CAD and FEA so you can focus on actually building.
 
 ---
 
-## ⚙️ What I'm Working On
+## What I'm Working On
 
-- **Smart BOM Generator** – Recursively extracts and cleans BOMs from SolidWorks assemblies
-- **FEA Setup Assistant** – One-click setup for MAPDL simulation (mesh, materials, constraints)
-
-All tools are free for student teams.  
-Used by Solar Car and Rocket clubs across the U.S.
+A new generation of FEA tool
+https://www.notion.so/team/1ed3e058-40e1-8193-b8ef-0042a6ee8d08/join
 
 ---
 
-## 🧠 Philosophy
+## Philosophy
 
 > Build tools that work even when the system doesn't.
 
@@ -25,7 +22,7 @@ Engineering should feel like momentum, not manual labor.
 
 ---
 
-## 📫 Connect
+## Connect
 
 - [Website](https://www.altoauto.net)  
 - [LinkedIn](https://www.linkedin.com/in/aiden-wang-964082354/)  
